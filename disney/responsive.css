@@ -1,0 +1,332 @@
+@media (max-width: 900px){
+    *{
+       max-width: 100%;
+    }
+    body{
+        background: #030714;
+
+    }
+    header{
+        background: none;
+       width: 0%;
+    }
+    .logo img{
+        left: 0;
+        top: 25px;
+        width: 68px;
+    }
+    .response{
+        max-width: 100%;
+        display: block;
+        height: 650px;
+    }
+    .nav-list-basic{
+        position: fixed;
+        right: 90px;
+    }
+    .nav{    
+      
+        left: 0;
+        max-width: 280px;
+       
+
+    }
+    .ass{
+        
+        font-size: 10px;
+        padding-top: 10px;
+        padding-bottom:10px;
+    }
+    .open{
+        font-size: 10px;
+        margin-top: -5px;
+        padding-top: 10px;
+        padding-bottom:10px ;
+        z-index: -1;
+        opacity: 55%;
+    }
+    .content h1{
+        font-size: 21px;
+        top: 180px;
+        left: 5%;
+        text-align: center;
+        max-width: 350px;
+    }
+    .main-img img{
+        top: 200px;
+        left: 100px;
+        margin-top:65px;
+        width: 180px;
+    }
+    .response-false{
+        display: none;
+    }
+    .planes a{
+        left: 10%;
+        top: 380px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 20px;
+        padding-bottom:20px ;
+    }
+    .btn-rolamento button{
+        left: 45%;
+        margin-top: 5px;
+    }
+    main{
+        height: 50px;
+    }
+    .content-two a{
+        margin-right: 10px;
+        font-size: 13px;
+    }
+    .container-3{
+        top: 550px;
+    }
+    .content-two{
+       left: 0;
+    }
+    .card-1 {
+        position: absolute;
+        left: 55px;
+        flex-wrap: wrap;
+    }
+    .card-1 img{
+        margin-right:20px;
+        width: 170px;
+    }
+    .card-especial{
+        left: 0;
+        top: 150px;
+        position: absolute;
+    }
+    .card-especial h1{
+        font-size: 20px;
+        font-weight: 400;
+        color: white;
+        margin-left: 26%;
+    }
+    .card-especial img{
+        width:  350px;
+        margin-left: 10%;
+    }
+    .title{
+        left: 22%;
+    }
+    .title h1{
+        font-size: 25px;
+    }
+    .container-3{
+        
+        height: 1480px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .card{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .card-especial p{
+        color: gray;
+
+        top: 215px;
+        margin-left:19% ;
+        width: 250px;
+        text-align: center;
+        margin-top: -10px;
+        font-size: 14px;
+    }
+    .card-especial a{
+        text-decoration: none;
+        background:  #7828ff;
+        text-align:center;
+        margin-top: -30px;
+        font-size: 15px;
+        left: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right:100px;
+        position: absolute;
+        padding-left: 100px;
+    }
+
+    .card-2 h1{
+        font-size: 25px;
+        position: absolute;
+        top: 795px;
+        left: 34%;
+    }
+    .img-1{
+        top: -1px;
+        width: 380px;
+        position: relative;
+      left: -60px;
+    }
+    .img-2{
+        left: 14%;
+        top: 685px;
+    }
+    .card-2 p{
+        text-align: center;
+        left: 25%;
+        top: 832px;
+    }
+    .card-2 a{
+        text-decoration: none;
+        background:  #7828ff;
+        text-align:center;
+        margin-top: 390px;
+        font-size: 15px;
+        left: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right:100px;
+        position: absolute;
+        padding-left: 100px;
+    }
+    .card-3 h1{
+        right: 20px;
+        top: 1130px;
+        font-size: 25px;
+    }
+    .card-3 img{
+        left: 45px;
+        width: 380px;
+        top: 1050px;
+    }
+    .card-3 h2{
+
+        max-width: 350px;
+        left: 95px;
+        top: 1230px;
+    }
+    .card-3 a{
+        text-decoration: none;
+        background:  #7828ff;
+        text-align:center;
+        margin-top: 820px;
+        font-size: 15px;
+        left: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right:100px;
+        position: absolute;
+        padding-left: 100px;
+    }
+    .footer-container-3 {
+        max-width: 350px;
+        text-align: center;
+        left: 40px;
+        top: 1480px;
+    }
+    .container-4{
+        height: 850px;
+    }
+    .item-content{
+        display: flex;
+        flex-direction: column;
+        top: -100px;
+    }
+    .item-content img{
+        top: 0;
+        width: 250px;
+    }
+    .content-four{
+        text-align: center;
+        margin-top: 25px;
+        margin-left: 3px;
+        max-width: 250px;
+    }
+    .content-four h1{
+        font-size: 24px;
+    }
+    .no-response{
+        display: none;
+    }
+    .response-one{
+        left: 10px;
+        top: 200px;
+        position: absolute;
+        display: block;
+    }
+    .title-six h1{
+        text-align: center;
+        margin-left: 3%;
+        font-size: 20px;
+    }
+    .item-content-2{
+        display: flex;
+        flex-direction: column;
+    }
+    .content-five{
+        left: 40px;
+        top: 400px;
+    }
+    .container-six{
+        height: 850px;
+    }
+    .sustent img{
+        width: 150px;
+    }
+    .sustent h1{
+        font-size: 20px;
+    }
+    .sustent{
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .column-1{
+        margin-top: -330px;
+    }
+    .container-7{
+        max-width: 95%;
+    }
+    .column-2{
+        margin-left: 90px;
+        margin-top: 50px;
+    }
+    .column-3{
+        padding-top: 135%;
+        margin-left: -135px;
+    }
+    .column-4{
+        right: -80px;
+        top: 55%;
+      position: absolute;
+    }
+    .title-5 h1{
+        margin-right: 5px;
+        font-size: 20px;
+    }
+     .group {
+        top: 50px;
+        left: 10px;
+        width: 350px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+            padding-right: 1px;
+            padding-left: 10px;
+    }
+    .group h1{
+
+        font-size: 14px;
+    }
+    .group-terms{
+        flex-wrap: wrap;
+    }
+    .result{
+        max-width: 350px;
+        font-size: 14px;
+    }
+    h5{
+        max-width: 350px;
+    }
+    footer{
+      
+        max-width: 100%;
+        height: 450px;
+    }
+}
